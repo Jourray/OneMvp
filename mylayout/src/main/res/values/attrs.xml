@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MylayUp">
+        <attr name="android:layout_width" />
+        <attr name="android:layout_height" />
+        <attr name="ringColor" format="color" />
+        <attr name="ringWidth" format="dimension" />
+        <attr name="circleColor" format="color" />
+        <attr name="android:textsize" />
+        <attr name="android:textColor" />
+        <attr name="sweepAngle" format="integer" />
+        <attr name="startAngle" format="integer" />
+    </declare-styleable>
+</resources>
